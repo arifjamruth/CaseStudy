@@ -8,3 +8,4 @@ Feature: Title of your feature
 Examples:
 |user||password|
 |lalitha||password123|
+|lalit||password123|
